@@ -1,1 +1,2 @@
-Stock Predictions with regression and categorical neural networks. My attempts at practicing some of the basics with Tensorflow. Obviously nothing terribly useful came out of it, just learning code.
+# Stock Predictions
+My learning attempts with regression and categorical neural networks using the stock market as a playground. Obviously nothing terribly useful came out of it, just learning code.
